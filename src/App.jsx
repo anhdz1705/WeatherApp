@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="app">
       <header className="app-header">
-        <h1>???? Weather App</h1>
+        <h1>Weather App</h1>
         <p className="subtitle">Dự báo thời tiết - Powered by Open-Meteo</p>
       </header>
 
